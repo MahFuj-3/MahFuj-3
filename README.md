@@ -43,14 +43,14 @@
 
 <br/>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuj-3&show_icons=true&locale=en&layout=compact" alt="mahfuj-3" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mahfuj-3&show_icons=true&locale=en&layout=compact" alt="mahfuj-3" /></p>
 
 <h2 align="center">📈 Current Stats</h2>
 
 <br/>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahfuj-3&show_icons=true&locale=en" alt="mahfuj-3" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahfuj-3&show_icons=true&locale=en" alt="mahfuj-3" />
   <br/>
   <br/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuj-3&" alt="mahfuj-3" />
