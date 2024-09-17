@@ -22,7 +22,7 @@
 <p align="center">
 <a href="https://dev.to/mahfuj3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mahfuj3" height="30" width="40" /></a>
 <a href="https://twitter.com/mahfuj_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahfuj_3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-mahfuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mahfuj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-mahfujur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mahfuj" height="30" width="40" /></a>
 <a href="https://hashnode.com/@mahfuj007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mahfuj007" height="30" width="40" /></a>
 <a href="https://medium.com/@mahfuj3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mahfuj3" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mahfuj3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahfuj3" height="30" width="40" /></a>
