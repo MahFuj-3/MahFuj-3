@@ -1,57 +1,265 @@
-<h1 align="center">Hi 👋, I'm Md. Mahfujur Rahman</h1>
-<h3 align="center">I am a MEAN Stack Developer from Bangladesh</h3>
+<div align="center">
 
-<p align="center"><img alt="Coding" width="400" src="https://cdn.dribbble.com/users/878726/screenshots/4933914/media/e692e37abd1aa1ebf725720b6d1bcb97.gif"></p>
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a6dd4&height=220&section=header&text=Md.%20Mahfujur%20Rahman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Angular%20%26%20TypeScript%20Platform%20Engineer&descSize=18&descAlignY=55&descAlign=50"/>
 
-<br/>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahfuj-3&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuj-3" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahfuj-3" alt="mahfuj-3" /></a> </p>
-
-<br/>
-
-<p align="center">- 💬 Ask me about **Angular, Typescript, SQL, Node, & Problem Solving**</p>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+Scalable+Enterprise+Web+Applications;4%2B+Years+of+Angular+%7C+TypeScript+%7C+RxJS" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<h2 align="center">📭 Connect with me:</h2>
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-mahfujur)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahfuj.edu.bd@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mahfuj_3)
+[![YouTube](https://img.shields.io/badge/Axitech-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@axitech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a6dd4?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
 
 <br/>
 
-<p align="center">
-<a href="https://dev.to/mahfuj3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mahfuj3" height="30" width="40" /></a>
-<a href="https://twitter.com/mahfuj_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahfuj_3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-mahfujur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mahfuj" height="30" width="40" /></a>
-<a href="https://hashnode.com/@mahfuj007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mahfuj007" height="30" width="40" /></a>
-<a href="https://medium.com/@mahfuj3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mahfuj3" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mahfuj3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahfuj3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mahfuj-3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahfuj-3" height="30" width="40" /></a>
-</p>
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=MahFuj-3&style=for-the-badge&color=1a6dd4&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```typescript
+const mahfuj: Developer = {
+  role: "Software Engineer (Frontend Angular Developer)",
+  company: "Vertis — Singapore 🇸🇬 (Remote)",
+  experience: "4+ years",
+  focus: [
+    "Enterprise SaaS Platforms",
+    "ERP & CRM Systems",
+    "High-Performance Dashboards",
+    "Scalable Component Architecture"
+  ],
+  currentlyLearning: ["NestJS", "System Design", "Next.js"],
+  funFact: "I reduced code redundancy by 40% and boosted app performance by 33% at scale."
+};
+```
 
 <br/>
 
-<h2 align="center">🛠 Languages and Tools:</h2>
+> *"I don't just write code — I engineer frontend systems that scale, perform, and last."*
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+### 🎯 Frontend Engineering (Core)
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### 🎨 UI Frameworks & Libraries
+
+![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?style=for-the-badge&logo=prime&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular_Material-757575?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![AG Grid](https://img.shields.io/badge/AG_Grid-66BC71?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+![Highcharts](https://img.shields.io/badge/Highcharts-4572A7?style=for-the-badge&logoColor=white)
+
+### 🔧 Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 🏢 Professional Experience
+
+<table>
+<tr>
+<td width="120" align="center">
+<br/><b>Vertis</b><br/><sub>🇸🇬 Singapore (Remote)</sub><br/><sub>Aug 2025 – Present</sub>
+</td>
+<td>
+
+**Software Engineer — Frontend Angular Developer**
+
+`Angular` `TypeScript` `RxJS` `PrimeNG`
+
+- Built enterprise **Business & Product dashboard** modules powering core SaaS analytics
+- Converted complex Figma designs into responsive, pixel-perfect Angular components
+- Resolved critical frontend bugs improving application stability across production
+- Integrated REST APIs optimizing frontend data processing and synchronization
+
+</td>
+</tr>
+<tr>
+<td width="120" align="center">
+<br/><b>Pridesys IT</b><br/><sub>📍 Dhaka, BD</sub><br/><sub>Oct 2024 – Jul 2025</sub>
+</td>
+<td>
+
+**Software Engineer — Front-End Angular Specialist**
+
+`Angular` `TypeScript` `RxJS` `AG-Grid` `Angular Material` `Highcharts`
+
+- Built scalable dashboards for ERP applications handling large datasets
+- Developed reusable UI components, directives, and shared modules
+- Optimized rendering performance using AG-Grid and Highcharts
+- Mentored junior engineers on RxJS and TypeScript best practices
+
+</td>
+</tr>
+<tr>
+<td width="120" align="center">
+<br/><b>SoftifyBD</b><br/><sub>📍 Dhaka, BD</sub><br/><sub>Jan 2022 – Jul 2024</sub>
+</td>
+<td>
+
+**Software Engineer — Front-End Angular Engineer**
+
+`Angular` `TypeScript` `SCSS` `Bootstrap` `Nebular` `RxJS`
+
+- Led Angular development across CRM, client portal, e-commerce & enterprise systems
+- **Reduced code redundancy by 40%** through reusable component libraries
+- **Improved app performance by 33%** via lazy loading & bundle optimization
+- Implemented role-based access control with multi-level permissions
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Key Projects
+
+<details>
+<summary><b>🏗️ Enterprise Business Solution (ERP Platform)</b></summary>
+<br/>
+
+- Led frontend across **10+ enterprise modules** — POS, Inventory, HRM, Accounting, Sales, Purchasing
+- Developed reusable generic datatable system with dynamic filtering, sorting & pagination
+- Upgraded Angular version and improved architecture maintainability
+- Implemented release tracking and maintenance UI features
+
+</details>
+
+<details>
+<summary><b>📊 CRM Platform</b></summary>
+<br/>
+
+- Reduced code redundancy by **30%** through module restructuring
+- Migrated Angular **v12 → v16** improving performance & maintainability
+- Implemented ACL-based role permission system
+
+</details>
+
+<details>
+<summary><b>🌐 Client Portal Platform</b></summary>
+<br/>
+
+- Redesigned navigation and UI improving **user engagement by 25%**
+- Built affiliate management and subscription payment system
+- Developed advanced payment workflow and account management
+
+</details>
+
+<details>
+<summary><b>🛒 E-Commerce Platform (MERN Stack)</b></summary>
+<br/>
+
+- Built vendor management system with product, order & analytics dashboards
+- Implemented real-time order tracking and notification features
+- Reduced order processing time by **42%** through workflow automation
+
+</details>
+
+<details>
+<summary><b>🏥 Healthcare Marketplace Platform</b></summary>
+<br/>
+
+- Contributed frontend for healthcare product marketplace applications
+- Worked on ERS, SMF Devices & Consumables modules
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MahFuj-3&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=1a6dd4&text_color=c9d1d9&ring_color=1a6dd4" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MahFuj-3&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=1a6dd4&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahFuj-3&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HackerRank-Angular_(Intermediate)-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-JavaScript_(Intermediate)-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahFuj-3&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=1a6dd4&point=58A6FF&area=true&area_color=1a6dd4" width="98%" alt="Activity Graph"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+💼 Open to **remote Angular/TypeScript roles** and **freelance projects**
+
+If you need help with **Enterprise Dashboards**, **ERP/CRM Systems**, **Angular Migrations**, or **Figma-to-Angular** conversion — let's talk!
 
 <br/>
 
-<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+[![Email Me](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge)](mailto:mahfuj.edu.bd@gmail.com)
+[![Hire on LinkedIn](https://img.shields.io/badge/💼_Hire_Me-0A66C2?style=for-the-badge)](https://linkedin.com/in/md-mahfujur)
 
-<br/>
+</div>
 
-<h2 align="center">💻 Most Used Languages : </h2>
+---
 
-<br/>
+<div align="center">
 
-<p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mahfuj-3&show_icons=true&locale=en&layout=compact" alt="mahfuj-3" /></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a6dd4&height=120&section=footer"/>
 
-<h2 align="center">📈 Current Stats</h2>
-
-<br/>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahfuj-3&show_icons=true&locale=en" alt="mahfuj-3" />
-  <br/>
-  <br/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuj-3&" alt="mahfuj-3" />
-</p>
+</div>
