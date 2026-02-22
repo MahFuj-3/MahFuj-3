@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a6dd4&height=220&section=header&text=Md.%20Mahfujur%20Rahman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Angular%20%26%20TypeScript%20Platform%20Engineer&descSize=18&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:1a6dd4&amp;height=220&amp;section=header&amp;text=Md.%20Mahfujur%20Rahman&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Angular%20%26%20TypeScript%20Platform%20Engineer&amp;descSize=18&amp;descAlignY=55&amp;descAlign=50"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+Scalable+Enterprise+Web+Applications;4%2B+Years+of+Angular+%7C+TypeScript+%7C+RxJS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=650&amp;height=80&amp;lines=Building+Scalable+Enterprise+Web+Applications;4%2B+Years+of+Angular+%7C+TypeScript+%7C+RxJS" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,7 +20,7 @@
 <br/>
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=MahFuj-3&style=for-the-badge&color=1a6dd4&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=MahFuj-3&amp;style=for-the-badge&amp;color=1a6dd4&amp;label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -69,7 +69,7 @@ const mahfuj: Developer = {
 ![Angular Material](https://img.shields.io/badge/Angular_Material-757575?style=for-the-badge&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![AG Grid](https://img.shields.io/badge/AG_Grid-66BC71?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+![AG Grid](https://img.shields.io/badge/AG_Grid-66BC71?style=for-the-badge&logoColor=white)
 ![Highcharts](https://img.shields.io/badge/Highcharts-4572A7?style=for-the-badge&logoColor=white)
 
 ### 🔧 Backend & Database
@@ -209,12 +209,12 @@ const mahfuj: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MahFuj-3&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=1a6dd4&text_color=c9d1d9&ring_color=1a6dd4" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MahFuj-3&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=1a6dd4&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MahFuj-3&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58A6FF&amp;icon_color=1a6dd4&amp;text_color=c9d1d9&amp;ring_color=1a6dd4" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MahFuj-3&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=161b22&amp;ring=1a6dd4&amp;fire=58A6FF&amp;currStreakLabel=58A6FF" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahFuj-3&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahFuj-3&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58A6FF&amp;text_color=c9d1d9&amp;langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -224,8 +224,8 @@ const mahfuj: Developer = {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HackerRank-Angular_(Intermediate)-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-<img src="https://img.shields.io/badge/HackerRank-JavaScript_(Intermediate)-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-Angular_(Intermediate)-00EA64?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-JavaScript_(Intermediate)-00EA64?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=white"/>
 
 </div>
 
@@ -235,7 +235,7 @@ const mahfuj: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahFuj-3&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=1a6dd4&point=58A6FF&area=true&area_color=1a6dd4" width="98%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahFuj-3&amp;theme=github-compact&amp;hide_border=true&amp;bg_color=0d1117&amp;color=58A6FF&amp;line=1a6dd4&amp;point=58A6FF&amp;area=true&amp;area_color=1a6dd4" width="98%" alt="Activity Graph"/>
 
 </div>
 
@@ -260,6 +260,6 @@ If you need help with **Enterprise Dashboards**, **ERP/CRM Systems**, **Angular 
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a6dd4&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:1a6dd4&amp;height=120&amp;section=footer"/>
 
 </div>
