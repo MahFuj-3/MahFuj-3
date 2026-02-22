@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:1a6dd4&amp;height=220&amp;section=header&amp;text=Md.%20Mahfujur%20Rahman&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Angular%20%26%20TypeScript%20Platform%20Engineer&amp;descSize=18&amp;descAlignY=55&amp;descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:1a6dd4&amp;height=220&amp;section=header&amp;text=Md.%20Mahfujur%20Rahman&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Angular%20%7C%20TypeScript%20Platform%20Engineer&amp;descSize=18&amp;descAlignY=55&amp;descAlign=50"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -11,13 +11,13 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-mahfujur)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahfuj.edu.bd@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mahfuj_3)
-[![YouTube](https://img.shields.io/badge/Axitech-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@axitech)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a6dd4?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+<a href="https://linkedin.com/in/md-mahfujur"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:mahfuj.edu.bd@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/></a>
+<a href="https://x.com/mahfuj_3"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X"/></a>
+<a href="https://youtube.com/@axitech"><img src="https://img.shields.io/badge/Axitech-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-1a6dd4?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio"/></a>
 
-<br/>
+<br/><br/>
 
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=MahFuj-3&amp;style=for-the-badge&amp;color=1a6dd4&amp;label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -35,7 +35,7 @@ const mahfuj: Developer = {
   experience: "4+ years",
   focus: [
     "Enterprise SaaS Platforms",
-    "ERP & CRM Systems",
+    "ERP and CRM Systems",
     "High-Performance Dashboards",
     "Scalable Component Architecture"
   ],
@@ -56,38 +56,38 @@ const mahfuj: Developer = {
 
 ### 🎯 Frontend Engineering (Core)
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Angular"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&amp;logo=reactivex&amp;logoColor=white" alt="RxJS"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white" alt="SCSS"/>
 
-### 🎨 UI Frameworks & Libraries
+### 🎨 UI Frameworks and Libraries
 
-![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?style=for-the-badge&logo=prime&logoColor=white)
-![Angular Material](https://img.shields.io/badge/Angular_Material-757575?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![AG Grid](https://img.shields.io/badge/AG_Grid-66BC71?style=for-the-badge&logoColor=white)
-![Highcharts](https://img.shields.io/badge/Highcharts-4572A7?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/PrimeNG-DD0031?style=for-the-badge&amp;logo=prime&amp;logoColor=white" alt="PrimeNG"/>
+<img src="https://img.shields.io/badge/Angular_Material-757575?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Angular Material"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/AG_Grid-66BC71?style=for-the-badge&amp;logoColor=white" alt="AG Grid"/>
+<img src="https://img.shields.io/badge/Highcharts-4572A7?style=for-the-badge&amp;logoColor=white" alt="Highcharts"/>
 
-### 🔧 Backend & Database
+### 🔧 Backend and Database
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white" alt="NestJS"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB"/>
 
-### 🛠️ DevOps & Tools
+### 🛠️ DevOps and Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&amp;logo=bitbucket&amp;logoColor=white" alt="Bitbucket"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white" alt="Jira"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code"/>
 
 </div>
 
@@ -106,7 +106,7 @@ const mahfuj: Developer = {
 
 `Angular` `TypeScript` `RxJS` `PrimeNG`
 
-- Built enterprise **Business & Product dashboard** modules powering core SaaS analytics
+- Built enterprise **Business and Product dashboard** modules powering core SaaS analytics
 - Converted complex Figma designs into responsive, pixel-perfect Angular components
 - Resolved critical frontend bugs improving application stability across production
 - Integrated REST APIs optimizing frontend data processing and synchronization
@@ -140,9 +140,9 @@ const mahfuj: Developer = {
 
 `Angular` `TypeScript` `SCSS` `Bootstrap` `Nebular` `RxJS`
 
-- Led Angular development across CRM, client portal, e-commerce & enterprise systems
+- Led Angular development across CRM, client portal, e-commerce and enterprise systems
 - **Reduced code redundancy by 40%** through reusable component libraries
-- **Improved app performance by 33%** via lazy loading & bundle optimization
+- **Improved app performance by 33%** via lazy loading and bundle optimization
 - Implemented role-based access control with multi-level permissions
 
 </td>
@@ -158,7 +158,7 @@ const mahfuj: Developer = {
 <br/>
 
 - Led frontend across **10+ enterprise modules** — POS, Inventory, HRM, Accounting, Sales, Purchasing
-- Developed reusable generic datatable system with dynamic filtering, sorting & pagination
+- Developed reusable generic datatable system with dynamic filtering, sorting and pagination
 - Upgraded Angular version and improved architecture maintainability
 - Implemented release tracking and maintenance UI features
 
@@ -169,7 +169,7 @@ const mahfuj: Developer = {
 <br/>
 
 - Reduced code redundancy by **30%** through module restructuring
-- Migrated Angular **v12 → v16** improving performance & maintainability
+- Migrated Angular **v12 to v16** improving performance and maintainability
 - Implemented ACL-based role permission system
 
 </details>
@@ -188,7 +188,7 @@ const mahfuj: Developer = {
 <summary><b>🛒 E-Commerce Platform (MERN Stack)</b></summary>
 <br/>
 
-- Built vendor management system with product, order & analytics dashboards
+- Built vendor management system with product, order and analytics dashboards
 - Implemented real-time order tracking and notification features
 - Reduced order processing time by **42%** through workflow automation
 
@@ -199,7 +199,7 @@ const mahfuj: Developer = {
 <br/>
 
 - Contributed frontend for healthcare product marketplace applications
-- Worked on ERS, SMF Devices & Consumables modules
+- Worked on ERS, SMF Devices and Consumables modules
 
 </details>
 
@@ -209,12 +209,14 @@ const mahfuj: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MahFuj-3&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58A6FF&amp;icon_color=1a6dd4&amp;text_color=c9d1d9&amp;ring_color=1a6dd4" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MahFuj-3&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=161b22&amp;ring=1a6dd4&amp;fire=58A6FF&amp;currStreakLabel=58A6FF" alt="GitHub Streak"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahFuj-3&amp;theme=github_dark" alt="Profile Details"/>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahFuj-3&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58A6FF&amp;text_color=c9d1d9&amp;langs_count=8" alt="Top Languages"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahFuj-3&amp;theme=github_dark" alt="Repos per Language"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahFuj-3&amp;theme=github_dark" alt="Most Commit Language"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MahFuj-3&amp;theme=github_dark" alt="Stats"/>
 
 </div>
 
@@ -224,8 +226,8 @@ const mahfuj: Developer = {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HackerRank-Angular_(Intermediate)-00EA64?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/HackerRank-JavaScript_(Intermediate)-00EA64?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-Angular_(Intermediate)-00EA64?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=white" alt="Angular Certificate"/>
+<img src="https://img.shields.io/badge/HackerRank-JavaScript_(Intermediate)-00EA64?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=white" alt="JavaScript Certificate"/>
 
 </div>
 
@@ -251,8 +253,8 @@ If you need help with **Enterprise Dashboards**, **ERP/CRM Systems**, **Angular 
 
 <br/>
 
-[![Email Me](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge)](mailto:mahfuj.edu.bd@gmail.com)
-[![Hire on LinkedIn](https://img.shields.io/badge/💼_Hire_Me-0A66C2?style=for-the-badge)](https://linkedin.com/in/md-mahfujur)
+<a href="mailto:mahfuj.edu.bd@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge" alt="Email Me"/></a>
+<a href="https://linkedin.com/in/md-mahfujur"><img src="https://img.shields.io/badge/💼_Hire_Me-0A66C2?style=for-the-badge" alt="Hire Me"/></a>
 
 </div>
 
