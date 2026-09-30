@@ -12,9 +12,9 @@
 
 <!-- Social Badges -->
 <a href="https://linkedin.com/in/md-mahfujur"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:mahfuj.edu.bd@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/></a>
+<a href="mailto:mahfujrahman738@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/></a>
 <a href="https://x.com/mahfuj_3"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-1a6dd4?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio"/></a>
+<a href="https://mahfuj.pro/"><img src="https://img.shields.io/badge/Portfolio-1a6dd4?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio"/></a>
 
 <br/><br/>
 
@@ -254,7 +254,7 @@ If you need help with **Enterprise Dashboards**, **ERP/CRM Systems**, **Angular 
 
 <br/>
 
-<a href="mailto:mahfuj.edu.bd@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge" alt="Email Me"/></a>
+<a href="mailto:mahfujrahman738@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge" alt="Email Me"/></a>
 <a href="https://linkedin.com/in/md-mahfujur"><img src="https://img.shields.io/badge/💼_Contact_Me-0A66C2?style=for-the-badge" alt="Contact Me"/></a>
 
 </div>
