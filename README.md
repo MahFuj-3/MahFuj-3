@@ -244,16 +244,6 @@ const mahfuj: Developer = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahFuj-3&amp;theme=github-compact&amp;hide_border=true&amp;bg_color=0d1117&amp;color=58A6FF&amp;line=1a6dd4&amp;point=58A6FF&amp;area=true&amp;area_color=1a6dd4" width="98%" alt="Activity Graph"/>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -265,7 +255,7 @@ If you need help with **Enterprise Dashboards**, **ERP/CRM Systems**, **Angular 
 <br/>
 
 <a href="mailto:mahfuj.edu.bd@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge" alt="Email Me"/></a>
-<a href="https://linkedin.com/in/md-mahfujur"><img src="https://img.shields.io/badge/💼_Hire_Me-0A66C2?style=for-the-badge" alt="Hire Me"/></a>
+<a href="https://linkedin.com/in/md-mahfujur"><img src="https://img.shields.io/badge/💼_Contact_Me-0A66C2?style=for-the-badge" alt="Contact Me"/></a>
 
 </div>
 
