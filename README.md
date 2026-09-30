@@ -39,7 +39,8 @@ const mahfuj: Developer = {
     "Scalable Component Architecture"
   ],
   currentlyLearning: ["NestJS", "System Design", "Next.js"],
-  funFact: "I reduced code redundancy by 40% and boosted app performance by 33% at scale."
+  funFact: "I reduced code redundancy by 40% and boosted app performance by 33% at scale.",
+  sideProject: "Finox - personal & business finance apps (myfinox.com)"
 };
 ```
 
@@ -151,6 +152,17 @@ const mahfuj: Developer = {
 ---
 
 ## 🚀 Key Projects
+
+<details open>
+<summary><b>Finox - Personal & Business Finance Apps (Side Project)</b></summary>
+<br/>
+
+- Solo-built two bilingual (English / Bangla) finance apps: **Finox Personal** and **Finox Business** - [myfinox.com](https://myfinox.com)
+- Built with **Angular 21, PrimeNG and Tailwind CSS v4**, a **NestJS + Prisma** API and an **Astro** marketing site
+- Card payments via Paddle plus bKash, installable PWAs, and invoice PDF generation with pdfmake
+- Set up analytics (GA4) and Search Console for the launch
+
+</details>
 
 <details>
 <summary><b>🏗️ Enterprise Business Solution (ERP Platform)</b></summary>
