@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=650&amp;height=80&amp;lines=Building+Scalable+Enterprise+Web+Applications;4%2B+Years+of+Angular+%7C+TypeScript+%7C+RxJS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=650&amp;height=80&amp;lines=Building+Scalable+Enterprise+Web+Applications;5%2B+Years+of+Angular+%7C+TypeScript+%7C+RxJS" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,7 +31,7 @@
 const mahfuj: Developer = {
   role: "Software Engineer (Frontend Angular Developer)",
   company: "Vertis — Singapore 🇸🇬 (Remote)",
-  experience: "4+ years",
+  experience: "5+ years",
   focus: [
     "Enterprise SaaS Platforms",
     "ERP and CRM Systems",
@@ -115,7 +115,7 @@ const mahfuj: Developer = {
 </tr>
 <tr>
 <td width="120" align="center">
-<br/><b>Pridesys IT</b><br/><sub>📍 Dhaka, BD</sub><br/><sub>Oct 2024 – Jul 2025</sub>
+<br/><b>Pridesys IT</b><br/><sub>📍 Dhaka, BD</sub><br/><sub>Sep 2024 – Jul 2025</sub>
 </td>
 <td>
 
