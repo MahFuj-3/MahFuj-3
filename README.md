@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:1a6dd4&amp;height=220&amp;section=header&amp;text=Md.%20Mahfujur%20Rahman&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Angular%20%7C%20TypeScript%20Platform%20Engineer&amp;descSize=18&amp;descAlignY=55&amp;descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:1a6dd4&amp;height=220&amp;section=header&amp;text=Md.%20Mahfujur%20Rahman&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Software%20Engineer%20%C2%B7%20Angular%20%26%20TypeScript%20%C2%B7%20NestJS&amp;descSize=18&amp;descAlignY=55&amp;descAlign=50"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=650&amp;height=80&amp;lines=Building+Scalable+Enterprise+Web+Applications;5%2B+Years+of+Angular+%7C+TypeScript+%7C+RxJS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=650&amp;height=80&amp;lines=Building+ERP%2C+CRM+%26+SaaS+Platforms;5%2B+Years+of+Angular+%7C+TypeScript+%7C+NestJS" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,7 +29,7 @@
 
 ```typescript
 const mahfuj: Developer = {
-  role: "Software Engineer (Frontend Angular Developer)",
+  role: "Software Engineer (Frontend Angular, Full-stack on side projects)",
   company: "Vertis — Singapore 🇸🇬 (Remote)",
   experience: "5+ years",
   focus: [
@@ -38,9 +38,10 @@ const mahfuj: Developer = {
     "High-Performance Dashboards",
     "Scalable Component Architecture"
   ],
-  currentlyLearning: ["NestJS", "System Design", "Next.js"],
-  funFact: "I reduced code redundancy by 40% and boosted app performance by 33% at scale.",
-  sideProject: "Finox - personal & business finance apps (myfinox.com)"
+  shipsWith: ["Angular 21 (Signals)", "NestJS", "Prisma", "PostgreSQL"],
+  currentlyLearning: ["System Design", "Next.js"],
+  wins: ["Angular v12 -> v19 migration", "27% faster app", "31% less duplicated code"],
+  sideProjects: "Finox Personal & Finox Business - live SaaS, built solo (myfinox.com)"
 };
 ```
 
@@ -106,10 +107,10 @@ const mahfuj: Developer = {
 
 `Angular` `TypeScript` `RxJS` `PrimeNG`
 
-- Built enterprise **Business and Product dashboard** modules powering core SaaS analytics
-- Converted complex Figma designs into responsive, pixel-perfect Angular components
-- Resolved critical frontend bugs improving application stability across production
-- Integrated REST APIs optimizing frontend data processing and synchronization
+- Building multiple portals (Buyer, Supplier, Admin, Caregiver Training) for a healthcare SaaS platform
+- Built product catalog, order management and checkout for the Buyer Portal
+- **Migrated the Angular codebase from v12 to v19**
+- Converted complex Figma designs into pixel-perfect PrimeNG components; fixed critical production bugs
 
 </td>
 </tr>
@@ -123,9 +124,9 @@ const mahfuj: Developer = {
 
 `Angular` `TypeScript` `RxJS` `AG-Grid` `Angular Material` `Highcharts`
 
-- Built scalable dashboards for ERP applications handling large datasets
+- Built core modules of a garment-industry ERP: Inventory, Purchase, Sales, HR, Accounting, Reports
+- Built reporting dashboards for large datasets with AG-Grid and Highcharts
 - Developed reusable UI components, directives, and shared modules
-- Optimized rendering performance using AG-Grid and Highcharts
 - Mentored junior engineers on RxJS and TypeScript best practices
 
 </td>
@@ -141,8 +142,8 @@ const mahfuj: Developer = {
 `Angular` `TypeScript` `SCSS` `Bootstrap` `Nebular` `RxJS`
 
 - Led Angular development across CRM, client portal, e-commerce and enterprise systems
-- **Reduced code redundancy by 40%** through reusable component libraries
-- **Improved app performance by 33%** via lazy loading and bundle optimization
+- **Reduced code redundancy by 31%** through reusable form, dashboard and table libraries
+- **Improved app performance by 27%** via lazy loading, bundle optimization and change detection tuning
 - Implemented role-based access control with multi-level permissions
 
 </td>
@@ -160,7 +161,9 @@ const mahfuj: Developer = {
 - Solo-built two bilingual (English / Bangla) finance apps: **Finox Personal** and **Finox Business** - [myfinox.com](https://myfinox.com)
 - Built with **Angular 21, PrimeNG and Tailwind CSS v4**, a **NestJS + Prisma** API and an **Astro** marketing site
 - Card payments via Paddle plus bKash, installable PWAs, and invoice PDF generation with pdfmake
-- Set up analytics (GA4) and Search Console for the launch
+- **Finox Store**: a separate Angular storefront on Cloudflare Workers giving each seller their own shop at `{name}.myfinox.com`, with orders priced and stock-checked by the same order service
+- Secure session auth with rotating refresh tokens, an append-only stock ledger and cash-on-delivery reconciliation
+- Engineering case studies: [Finox Personal](https://mahfuj.pro/work/finox-personal) · [Finox Business](https://mahfuj.pro/work/finox-business)
 
 </details>
 
@@ -216,23 +219,6 @@ const mahfuj: Developer = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MahFuj-3&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=161b22&amp;ring=1a6dd4&amp;fire=58A6FF&amp;currStreakLabel=58A6FF" alt="GitHub Streak"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahFuj-3&amp;theme=github_dark" alt="Profile Details"/>
-
-<br/><br/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahFuj-3&amp;theme=github_dark" alt="Repos per Language"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahFuj-3&amp;theme=github_dark" alt="Most Commit Language"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MahFuj-3&amp;theme=github_dark" alt="Stats"/>
-
-</div>
-
----
-
 ## 🏆 Certifications
 
 <div align="center">
@@ -248,7 +234,7 @@ const mahfuj: Developer = {
 
 <div align="center">
 
-💼 Open to **remote Angular/TypeScript roles** and **freelance projects**
+💼 Open to **Frontend / Full-stack roles with international remote teams**
 
 If you need help with **Enterprise Dashboards**, **ERP/CRM Systems**, **Angular Migrations**, or **Figma-to-Angular** conversion — let's talk!
 
