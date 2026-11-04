@@ -40,7 +40,7 @@ const mahfuj: Developer = {
   ],
   shipsWith: ["Angular 21 (Signals)", "NestJS", "Prisma", "PostgreSQL"],
   currentlyLearning: ["System Design", "Next.js"],
-  wins: ["Angular v12 -> v19 migration", "27% faster app", "31% less duplicated code"],
+  wins: ["Angular v12 -> v21 migration", "27% faster app", "31% less duplicated code"],
   sideProjects: "Finox Personal & Finox Business - live SaaS, built solo (myfinox.com)"
 };
 ```
@@ -109,7 +109,7 @@ const mahfuj: Developer = {
 
 - Building multiple portals (Buyer, Supplier, Admin, Caregiver Training) for a healthcare SaaS platform
 - Built product catalog, order management and checkout for the Buyer Portal
-- **Migrated the Angular codebase from v12 to v19**
+- **Migrated the Angular codebase from v12 to v21**
 - Converted complex Figma designs into pixel-perfect PrimeNG components; fixed critical production bugs
 
 </td>
